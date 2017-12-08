@@ -1,0 +1,513 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info>
+    <MetadataNode>
+        <path value="Root:type:Files">
+            <path value="CodeGeneratetion:type:File">
+                <path value="1:type:DIR_SIGNIFIER">
+                    <node name="Info" />
+                </path>
+                <path value="SimulinkCash:type:File">
+                    <node name="Info" />
+                    <path value="1:type:DIR_SIGNIFIER">
+                        <node name="Info" />
+                    </path>
+                </path>
+                <node name="Info" />
+            </path>
+            <path value="scripts:type:File">
+                <node name="Info" />
+                <path value="functionLibrary:type:File">
+                    <node name="Info" />
+                    <path value="LinearizeMat.m:type:File">
+                        <node name="Info">
+                            <node name="Category">
+                                <node name="Label">
+                                    <entry value="design" key="UUID" />
+                                </node>
+                                <entry value="FileClassCategory" key="UUID" />
+                            </node>
+                        </node>
+                    </path>
+                    <path value="General_Constrained_LagrangeDLambert_Tensor.m:type:File">
+                        <node name="Info">
+                            <node name="Category">
+                                <node name="Label">
+                                    <entry value="design" key="UUID" />
+                                </node>
+                                <entry value="FileClassCategory" key="UUID" />
+                            </node>
+                        </node>
+                    </path>
+                    <path value="Tailor_Series_Mat.m:type:File">
+                        <node name="Info">
+                            <node name="Category">
+                                <entry value="FileClassCategory" key="UUID" />
+                                <node name="Label">
+                                    <entry value="design" key="UUID" />
+                                </node>
+                            </node>
+                        </node>
+                    </path>
+                    <path value="1:type:DIR_SIGNIFIER">
+                        <node name="Info" />
+                    </path>
+                    <path value="LagrangeDLambert.m:type:File">
+                        <node name="Info">
+                            <node name="Category">
+                                <node name="Label">
+                                    <entry value="design" key="UUID" />
+                                </node>
+                                <entry value="FileClassCategory" key="UUID" />
+                            </node>
+                        </node>
+                    </path>
+                    <path value="GenerateLatexCode.m:type:File">
+                        <node name="Info">
+                            <node name="Category">
+                                <node name="Label">
+                                    <entry value="design" key="UUID" />
+                                </node>
+                                <entry value="FileClassCategory" key="UUID" />
+                            </node>
+                        </node>
+                    </path>
+                    <path value="fulldiff.m:type:File">
+                        <node name="Info">
+                            <node name="Category">
+                                <entry value="FileClassCategory" key="UUID" />
+                                <node name="Label">
+                                    <entry value="design" key="UUID" />
+                                </node>
+                            </node>
+                        </node>
+                    </path>
+                    <path value="generateRotationMatrix.m:type:File">
+                        <node name="Info">
+                            <node name="Category">
+                                <node name="Label">
+                                    <entry value="design" key="UUID" />
+                                </node>
+                                <entry value="FileClassCategory" key="UUID" />
+                            </node>
+                        </node>
+                    </path>
+                    <path value="NonHolonomic_LagrangeDLambert.m:type:File">
+                        <node name="Info">
+                            <node name="Category">
+                                <entry value="FileClassCategory" key="UUID" />
+                                <node name="Label">
+                                    <entry value="design" key="UUID" />
+                                </node>
+                            </node>
+                        </node>
+                    </path>
+                    <path value="freezeColors.m:type:File">
+                        <node name="Info">
+                            <node name="Category">
+                                <entry value="FileClassCategory" key="UUID" />
+                                <node name="Label">
+                                    <entry value="design" key="UUID" />
+                                </node>
+                            </node>
+                        </node>
+                    </path>
+                    <path value="buildQuadraticForm.m:type:File">
+                        <node name="Info">
+                            <node name="Category">
+                                <entry value="FileClassCategory" key="UUID" />
+                                <node name="Label">
+                                    <entry value="design" key="UUID" />
+                                </node>
+                            </node>
+                        </node>
+                    </path>
+                    <path value="NonHolonomic_Hamiltonian_minimal.m:type:File">
+                        <node name="Info">
+                            <node name="Category">
+                                <node name="Label">
+                                    <entry value="design" key="UUID" />
+                                </node>
+                                <entry value="FileClassCategory" key="UUID" />
+                            </node>
+                        </node>
+                    </path>
+                    <path value="Classic_LagrangeDLambert.m:type:File">
+                        <node name="Info">
+                            <node name="Category">
+                                <node name="Label">
+                                    <entry value="design" key="UUID" />
+                                </node>
+                                <entry value="FileClassCategory" key="UUID" />
+                            </node>
+                        </node>
+                    </path>
+                    <path value="NonHolonomic_Hamiltonian.m:type:File">
+                        <node name="Info">
+                            <node name="Category">
+                                <entry value="FileClassCategory" key="UUID" />
+                                <node name="Label">
+                                    <entry value="design" key="UUID" />
+                                </node>
+                            </node>
+                        </node>
+                    </path>
+                    <path value="FourierSeries.m:type:File">
+                        <node name="Info">
+                            <node name="Category">
+                                <entry value="FileClassCategory" key="UUID" />
+                                <node name="Label">
+                                    <entry value="design" key="UUID" />
+                                </node>
+                            </node>
+                        </node>
+                    </path>
+                </path>
+                <path value="1:type:DIR_SIGNIFIER">
+                    <node name="Info" />
+                </path>
+                <path value="EoM_Tensor_test.m:type:File">
+                    <node name="Info">
+                        <node name="Category">
+                            <entry value="FileClassCategory" key="UUID" />
+                            <node name="Label">
+                                <entry value="design" key="UUID" />
+                            </node>
+                        </node>
+                    </node>
+                </path>
+            </path>
+            <path value="ProjetSetup_EoM.m:type:File">
+                <node name="Info">
+                    <node name="Category">
+                        <node name="Label">
+                            <entry value="design" key="UUID" />
+                        </node>
+                        <entry value="FileClassCategory" key="UUID" />
+                    </node>
+                </node>
+            </path>
+            <path value="data:type:File">
+                <path value="1:type:DIR_SIGNIFIER">
+                    <node name="Info" />
+                </path>
+                <node name="Info">
+                    <node name="Category">
+                        <node name="Label">
+                            <entry value="none" key="UUID" />
+                        </node>
+                        <entry value="FileClassCategory" key="UUID" />
+                    </node>
+                </node>
+            </path>
+            <path value="models:type:File">
+                <node name="Info">
+                    <node name="Category">
+                        <entry value="FileClassCategory" key="UUID" />
+                        <node name="Label">
+                            <entry value="none" key="UUID" />
+                        </node>
+                    </node>
+                </node>
+                <path value="1:type:DIR_SIGNIFIER">
+                    <node name="Info" />
+                </path>
+                <path value="rootSimulation.slx:type:File">
+                    <node name="Info">
+                        <node name="Category">
+                            <node name="Label">
+                                <entry value="design" key="UUID" />
+                            </node>
+                            <entry value="FileClassCategory" key="UUID" />
+                        </node>
+                    </node>
+                </path>
+            </path>
+        </path>
+        <path value="Extensions:type:Root">
+            <path value="DependencyAnalysis:type:Extension">
+                <path value="ExternalFiles:type:Extension">
+                    <node name="Info">
+                        <entry value="dVxi" key="File0" />
+                        <entry value="Vsigma" key="File15" />
+                        <entry value="dVpsi" key="File1" />
+                        <entry value="Vpsi" key="File8" />
+                        <entry value="dVphi" key="File3" />
+                        <entry value="h_c" key="File16" />
+                        <entry value="Veta" key="File11" />
+                        <entry value="dVeta" key="File2" />
+                        <entry value="Nth_jacobian" key="File6" />
+                        <entry value="Vphi" key="File18" />
+                        <entry value="dVsigma" key="File4" />
+                        <entry value="k" key="File5" />
+                        <entry value="L_r" key="File14" />
+                        <entry value="Vxi" key="File10" />
+                        <entry value="m" key="File17" />
+                        <entry value="Js" key="File13" />
+                        <entry value="cbfreeze" key="File7" />
+                        <entry value="J" key="File12" />
+                        <entry value="g" key="File9" />
+                    </node>
+                </path>
+            </path>
+        </path>
+        <path value="Root:type:Extensions" />
+        <path value="Root:type:WorkingFolders">
+            <path value="SimulinkCodeGenFolder:type:Reference">
+                <node name="Info">
+                    <entry value="CodeGeneratetion/SimulinkCode" key="Ref" />
+                    <entry value="Relative" key="Type" />
+                </node>
+            </path>
+            <path value="SimulinkCacheFolder:type:Reference">
+                <node name="Info">
+                    <entry value="CodeGeneratetion/SimulinkCash" key="Ref" />
+                    <entry value="Relative" key="Type" />
+                </node>
+            </path>
+        </path>
+        <path value="Root:type:EntryPoints">
+            <path value="473bb9c0-610d-49f7-901a-c8849fa56b1d:type:EntryPoint">
+                <node name="Info">
+                    <entry value="StartUp" key="Type" />
+                    <entry value="" key="Icon" />
+                    <entry value="ProjetSetup_EoM" key="Name" />
+                    <entry value="0" key="Visible" />
+                    <entry value="ProjetSetup_EoM.m" key="File" />
+                </node>
+            </path>
+        </path>
+        <path value="Root:type:ProjectPath">
+            <path value="81e10a40-50f4-46a2-bcf6-f5c3b8a1a0a4:type:Reference">
+                <node name="Info">
+                    <entry value="models" key="Ref" />
+                    <entry value="Relative" key="Type" />
+                </node>
+            </path>
+            <path value="3e7dc80d-a544-4ab3-9338-27546be5a348:type:Reference">
+                <node name="Info">
+                    <entry value="Relative" key="Type" />
+                    <entry value="scripts/functionLibrary" key="Ref" />
+                </node>
+            </path>
+            <path value="bedc94d7-2bbe-450a-9eac-854e4fd8c8dc:type:Reference">
+                <node name="Info">
+                    <entry value="Relative" key="Type" />
+                    <entry value="CodeGeneratetion/SimulinkCode" key="Ref" />
+                </node>
+            </path>
+            <path value="fe2a21ce-332c-4896-a31f-61b386bb76bf:type:Reference">
+                <node name="Info">
+                    <entry value="Relative" key="Type" />
+                    <entry value="CodeGeneratetion" key="Ref" />
+                </node>
+            </path>
+            <path value="ca019386-55db-4774-b7bd-8b9a9ac2f11d:type:Reference">
+                <node name="Info">
+                    <entry value="Relative" key="Type" />
+                    <entry value="CodeGeneratetion/SimulinkCash" key="Ref" />
+                </node>
+            </path>
+            <path value="5057d445-dbf2-46d5-be33-64aa8432e0ed:type:Reference">
+                <node name="Info">
+                    <entry value="data" key="Ref" />
+                    <entry value="Relative" key="Type" />
+                </node>
+            </path>
+            <path value="99385d63-9a65-462f-a179-46ddfafc4b3e:type:Reference">
+                <node name="Info">
+                    <entry value="scripts" key="Ref" />
+                    <entry value="Relative" key="Type" />
+                </node>
+            </path>
+        </path>
+        <path value="Root:type:Categories">
+            <path value="FileClassCategory:type:Category">
+                <path value="other:type:Label">
+                    <node name="Info">
+                        <entry value="Other" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <node name="Info">
+                    <entry value="1" key="ReadOnly" />
+                    <entry value="1" key="SingleValued" />
+                    <entry value="None" key="DataType" />
+                    <entry value="Classification" key="Name" />
+                </node>
+                <path value="artifact:type:Label">
+                    <node name="Info">
+                        <entry value="Artifact" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="derived:type:Label">
+                    <node name="Info">
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                        <entry value="Derived" key="Name" />
+                    </node>
+                </path>
+                <path value="test:type:Label">
+                    <node name="Info">
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                        <entry value="Test" key="Name" />
+                    </node>
+                </path>
+                <path value="none:type:Label">
+                    <node name="Info">
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                        <entry value="None" key="Name" />
+                    </node>
+                </path>
+                <path value="design:type:Label">
+                    <node name="Info">
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                        <entry value="Design" key="Name" />
+                    </node>
+                </path>
+                <path value="convenience:type:Label">
+                    <node name="Info">
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                        <entry value="Convenience" key="Name" />
+                    </node>
+                </path>
+            </path>
+        </path>
+        <path value="ProjectData:type:Info">
+            <node name="Info">
+                <entry value="EquationsOfMotion" key="Name" />
+            </node>
+        </path>
+        <path value="Root:type:ProjectData" />
+    </MetadataNode>
+    <Files>
+        <File path=".git/objects/7b" value="-1" />
+        <File path=".git/objects/85" value="-1" />
+        <File path=".git/index" value="eec86594" />
+        <File path=".git/objects/90/250058ae97fd76c68d3fc1d080b6314961adb3" value="9ae9fb6c" />
+        <File path=".git/objects/1c" value="-1" />
+        <File path=".git/objects/33" value="-1" />
+        <File path=".git/objects/f6/e8c5dc341fb1207297129994a3fe7ae957e549" value="ad6e895b" />
+        <File path=".git/objects/a0/2f5da1eadd8058c209a583e48ddd0611818513" value="8f771fea" />
+        <File path=".git/HEAD" value="a773692b" />
+        <File path="scripts/functionLibrary/Tailor_Series_Mat.m" value="513fc87" />
+        <File path=".git/objects/14" value="-1" />
+        <File path="models" value="-1" />
+        <File path=".git/objects/1c/0844ef4670dae761be477ee357d5f4cfe1ed5c" value="64f62a19" />
+        <File path=".git/objects/be" value="-1" />
+        <File path=".git/refs" value="-1" />
+        <File path="scripts/functionLibrary/NonHolonomic_Hamiltonian.m" value="4ddad182" />
+        <File path=".git/objects/59" value="-1" />
+        <File path=".git/objects/84/b0ef6bb5138cd3cda3db404ce97b826f2abd02" value="80e54004" />
+        <File path=".git/refs/remotes" value="-1" />
+        <File path=".git/objects/b5/6f6594d2f5681eb29de118b52d3c3ff04ca1c0" value="9d86ce87" />
+        <File path=".git/objects/4d/d2258b9757121941d5105e61311ba541080b5d" value="7a8aed7a" />
+        <File path=".git/logs/refs/remotes/origin" value="-1" />
+        <File path=".git/objects/dc" value="-1" />
+        <File path=".git/objects/b0/11466b01ea9eb99fc515ff0e76a47562bf2524" value="b05caeaf" />
+        <File path=".git/logs/refs/remotes/origin/master" value="2bd637e2" />
+        <File path=".git/objects/9f" value="-1" />
+        <File path=".git/logs/refs/heads" value="-1" />
+        <File path="scripts/functionLibrary/LagrangeDLambert.m" value="68331005" />
+        <File path="CodeGeneratetion/SimulinkCode" value="-1" />
+        <File path=".git/refs/remotes/origin" value="-1" />
+        <File path="scripts/functionLibrary/generateRotationMatrix.m" value="37ce1d30" />
+        <File path=".git/refs/heads" value="-1" />
+        <File path=".git/objects/85/534d25937a7bdb7790e003da3222c89af49a2b" value="8dfde92" />
+        <File path=".git/objects/27/ca3e7023bac88193072fbbf7021c30a0b5c6f7" value="5027eb80" />
+        <File path="scripts/functionLibrary/LinearizeMat.m" value="85212b6e" />
+        <File path=".git/objects/b0" value="-1" />
+        <File path=".git/objects/80" value="-1" />
+        <File path=".git/objects/pack/pack-bafcaed3bea24f464ce8397e1a3240f0a2d2f867.idx" value="5bb34fc6" />
+        <File path=".git/objects/a0" value="-1" />
+        <File path=".git/objects/52" value="-1" />
+        <File path=".git/objects/84" value="-1" />
+        <File path=".git/objects/f8" value="-1" />
+        <File path="scripts/EoM_Tensor_test.m" value="a5204ac6" />
+        <File path=".git/objects/4d/51c2a1d51719992fde40cba2ae195bf51e3bc0" value="a5d570ec" />
+        <File path="scripts/functionLibrary/NonHolonomic_LagrangeDLambert.m" value="3fd8267c" />
+        <File path=".git/objects/37" value="-1" />
+        <File path="scripts/functionLibrary/freezeColors.m" value="4968133" />
+        <File path="scripts/functionLibrary/NonHolonomic_Hamiltonian_minimal.m" value="267fab38" />
+        <File path=".git/refs/heads/master" value="18722875" />
+        <File path=".git/objects/pack" value="-1" />
+        <File path=".git/COMMIT_EDITMSG" value="0" />
+        <File path="scripts/functionLibrary" value="-1" />
+        <File path=".git/objects" value="-1" />
+        <File path=".git/objects/59/cb0be62a9930c19610aaae4a36040e47b5dcfc" value="153f5489" />
+        <File path=".git/objects/e8" value="-1" />
+        <File path=".git/objects/pack/pack-bafcaed3bea24f464ce8397e1a3240f0a2d2f867.pack" value="c84c22fe" />
+        <File path=".git/FETCH_HEAD" value="6d8a1915" />
+        <File path=".git/objects/37/c9949aaaa3278d7a2f62c81faef396121c8884" value="92975fc3" />
+        <File path=".git/objects/72" value="-1" />
+        <File path=".git/objects/48/681b3a1d36861ad2aa1f2ecfa535d1204c9d56" value="cd6ffa64" />
+        <File path=".git/objects/fe/edda30535849d95874b7f3dc45adf1906ef4b9" value="eb6ae43e" />
+        <File path="scripts/functionLibrary/Classic_LagrangeDLambert.m" value="eec5b9b5" />
+        <File path=".git/objects/e8/3f77f98fab1e14403b990e07b7584e1430c924" value="38c82974" />
+        <File path=".git/objects/5a" value="-1" />
+        <File path="scripts/functionLibrary/buildQuadraticForm.m" value="10fada76" />
+        <File path="data" value="-1" />
+        <File path=".git/objects/f6" value="-1" />
+        <File path=".git/objects/dc/f1072417f9b7575323a1a004eb808143565d58" value="e4a1760a" />
+        <File path=".git/objects/12" value="-1" />
+        <File path="scripts/functionLibrary/GenerateLatexCode.m" value="66ee716a" />
+        <File path=".git/objects/6a" value="-1" />
+        <File path=".git/ORIG_HEAD" value="8c482474" />
+        <File path=".git/branches" value="-1" />
+        <File path=".git/refs/tags" value="-1" />
+        <File path=".git/objects/85/b705df00d5dd751b3501608ba3ddaf839f8a69" value="b6ac396f" />
+        <File path=".git/logs/refs" value="-1" />
+        <File path=".git/objects/ea" value="-1" />
+        <File path="scripts/functionLibrary/fulldiff.m" value="841f998a" />
+        <File path=".git/logs" value="-1" />
+        <File path=".git/objects/ed/e98bf7152e369cd7c7d6da6653046a4038d783" value="48114469" />
+        <File path=".git/objects/14/d104f13babc89be36f3ebfae123b76b11a9ce9" value="41de5ba8" />
+        <File path="scripts/functionLibrary/General_Constrained_LagrangeDLambert_Tensor.m" value="55f586ee" />
+        <File path=".git/config" value="b84933c3" />
+        <File path=".git/objects/33/699cda7fa55d45efd8405def43a2a591b14fde" value="9e3c85bd" />
+        <File path="ProjetSetup_EoM.m" value="3672d0a3" />
+        <File path=".git/logs/HEAD" value="f93b101b" />
+        <File path="scripts" value="-1" />
+        <File path=".git/objects/b5" value="-1" />
+        <File path=".git/objects/52/728019951a488c8471c3e818edc20b7f81f0a0" value="fde15f74" />
+        <File path="EquationsOfMotion.prj" value="2c34c186" />
+        <File path=".git/objects/info" value="-1" />
+        <File path=".git/objects/7b/b78098c02c206227d6ffb5ca3637a2e7cc7ff2" value="59b05b05" />
+        <File path=".git/objects/ea/6d487db1432742bd02aa7b5bbd1a740e998cfa" value="989a89a6" />
+        <File path=".git/objects/6a/e71f51a4cb687603a54f3ebd5a11055056c908" value="63900e64" />
+        <File path="scripts/functionLibrary/FourierSeries.m" value="b3998de2" />
+        <File path=".git/objects/d1/27a7c924aab244902e18f8c01d0432f10aac3f" value="f2ffb4b8" />
+        <File path=".git/objects/8d" value="-1" />
+        <File path="CodeGeneratetion/SimulinkCash" value="-1" />
+        <File path=".git/objects/4a" value="-1" />
+        <File path=".git/hooks" value="-1" />
+        <File path=".git/objects/33/0c10f7ed43815cde8f5cda93df7565b4882aa6" value="ac683022" />
+        <File path=".git/objects/f8/37c9b461627efcd0b169aeb777d1deddaf786f" value="6f753b4d" />
+        <File path=".git/objects/be/523542698a3e5e8b5b58bc6be4c423c9557c5d" value="238e9d7f" />
+        <File path="models/rootSimulation.slx" value="1233bef5" />
+        <File path=".git/objects/5a/6f80213c2ebce0418ca957e0d137327319d90a" value="eca7e3d7" />
+        <File path=".git/objects/80/b5b1611883d5edd2108f6ac9eb324c57a7dda0" value="ac6b08a9" />
+        <File path=".git/objects/12/eab9cfa0d25e2ee8301aebe8607054d125a9e7" value="c2b3c84f" />
+        <File path=".git/objects/4a/9e34e44f5fb3adcb2aa9a8b419ece028adf61e" value="daabc07" />
+        <File path=".git/refs/remotes/origin/master" value="9e1c2944" />
+        <File path=".git/objects/90" value="-1" />
+        <File path=".git/objects/be/0bf4ec8acd4ebe261dc0ac48b2de3591c8abbf" value="a7634211" />
+        <File path=".git/objects/5a/873c8a57cc7c161433b3a3abb31a2a48e483fe" value="d59710b4" />
+        <File path=".git/objects/72/6b6d59ae7cbefcad4ef19ff1a7f8bf1640fbef" value="c2ce8419" />
+        <File path=".git/logs/refs/heads/master" value="f93b101b" />
+        <File path=".git/objects/27" value="-1" />
+        <File path=".git/objects/48" value="-1" />
+        <File path=".git/logs/refs/remotes" value="-1" />
+        <File path=".git/objects/ed" value="-1" />
+        <File path=".git/objects/d1" value="-1" />
+        <File path=".git/objects/9f/9246d5630fd32fca856ef2e472b80ec10ca896" value="646effaa" />
+        <File path="CodeGeneratetion" value="-1" />
+        <File path=".git" value="-1" />
+        <File path=".git/objects/6a/95fa28067745493b2a908d546222308c2e884f" value="afcf18bc" />
+        <File path=".git/objects/1c/c340c7f7f514c3c03de87095fc5c4a918cc53b" value="bff571a6" />
+        <File path=".git/objects/72/95bd9793991441cd9b491bd0c24bbce80de262" value="ac8960dc" />
+        <File path=".git/objects/8d/632b544a9a63dadc205212955430670409c008" value="6a91bbc7" />
+        <File path=".git/objects/4d" value="-1" />
+        <File path=".git/objects/fe" value="-1" />
+    </Files>
+    <Date value="8. Dezember 2017 11:12:09" />
+</Info>
